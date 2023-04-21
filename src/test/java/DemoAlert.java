@@ -43,11 +43,7 @@ public class DemoAlert {
 			Thread.sleep(2000);
 		}
 		
-		//This is comment
-		//This is comment
-		//This is comment
-		//This is comment
-		//This is comment
+		
 
 	}
 
